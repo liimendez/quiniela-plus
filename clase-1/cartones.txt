@@ -1,0 +1,350 @@
+Direccion: av.eva peron 2211
+Fecha: domingo
+Valor: 70
+Numeros del carton: 3 30 56 65 70 79 86 95 
+-----------------------------
+Direccion: av.eva peron 2211
+Fecha: domingo
+Valor: 70
+Numeros del carton: 7 20 30 41 46 55 64 69 
+-----------------------------
+Direccion: av.eva peron 2211
+Fecha: domingo
+Valor: 70
+Numeros del carton: 29 34 35 43 62 63 73 83 
+-----------------------------
+Direccion: av.eva peron 2211
+Fecha: domingo
+Valor: 70
+Numeros del carton: 26 36 39 69 74 77 88 95 
+-----------------------------
+Direccion: av.eva peron 2211
+Fecha: domingo
+Valor: 70
+Numeros del carton: 16 48 61 64 76 77 79 97 
+-----------------------------
+Direccion: av.eva peron 2211
+Fecha: domingo
+Valor: 70
+Numeros del carton: 14 33 38 45 46 54 71 96 
+-----------------------------
+Direccion: av.eva peron 2211
+Fecha: domingo
+Valor: 70
+Numeros del carton: 7 13 22 34 37 49 55 95 
+-----------------------------
+Direccion: essica mendez 
+Fecha: domingo
+Valor: 70
+Numeros del carton: 13 14 15 55 65 66 75 76 
+-----------------------------
+Direccion: bv.armesti 5643
+Fecha: domingo
+Valor: 70
+Numeros del carton: 21 26 31 46 66 78 89 93 
+-----------------------------
+Direccion: bv.armesti 5643
+Fecha: domingo
+Valor: 70
+Numeros del carton: 10 13 27 31 44 45 65 90 
+-----------------------------
+Direccion: bv.armesti 123
+Fecha: domingo
+Valor: 70
+Numeros del carton: 8 22 28 57 64 70 89 90 
+-----------------------------
+Direccion: calle falsa 123
+Fecha: domingo
+Valor: 70
+Numeros del carton: 14 30 32 42 43 82 88 99 
+-----------------------------
+Direccion: bv.armesti
+Fecha: domingo
+Valor: 70
+Numeros del carton: 11 20 32 45 64 76 81 89 
+-----------------------------
+Direccion: rococo 123
+Fecha: domingo
+Valor: 70
+Numeros del carton: 6 25 29 36 45 58 72 88 
+-----------------------------
+Direccion: rosas 124
+Fecha: domingo
+Valor: 70
+Numeros del carton: 3 5 22 32 34 45 56 78 
+-----------------------------
+Direccion: *yÒg
+Fecha: domingo
+Valor: 70
+Numeros del carton: 17 19 27 61 70 85 89 99 
+-----------------------------
+Direccion: £yÒg
+Fecha: domingo
+Valor: 70
+Numeros del carton: 3 18 22 28 38 55 65 78 
+-----------------------------
+Direccion: !zÒg
+Fecha: domingo
+Valor: 70
+Numeros del carton: 29 31 32 33 51 66 81 82 
+-----------------------------
+Direccion: {Òg
+Fecha: domingo
+Valor: 70
+Numeros del carton: 11 22 27 36 51 56 81 86 
+-----------------------------
+Direccion: X{Òg
+Fecha: domingo
+Valor: 70
+Numeros del carton: 18 48 49 50 63 68 84 97 
+-----------------------------
+Direccion: `}Òg
+Fecha: domingo
+Valor: 70
+Numeros del carton: 6 15 27 32 44 47 54 63 
+-----------------------------
+Direccion: *~Òg
+Fecha: domingo
+Valor: 70
+Numeros del carton: 7 18 29 31 36 37 41 78 
+-----------------------------
+Direccion: 'ÅÚg
+Fecha: domingo
+Valor: 70
+Numeros del carton: 9 42 45 53 75 79 89 90 
+-----------------------------
+Direccion: ÃÅÚg
+Fecha: domingo
+Valor: 70
+Numeros del carton: 13 39 41 44 60 71 77 81 
+-----------------------------
+Direccion:  i 
+Fecha: domingo
+Valor: 70
+Numeros del carton: 0 4 13 15 47 51 55 85 
+-----------------------------
+Direccion: bv.armesti 5433
+Fecha: domingo
+Valor: 70
+Numeros del carton: 17 20 48 70 73 88 89 96 
+-----------------------------
+Direccion: bv.armesti 2443
+Fecha: domingo
+Valor: 70
+Numeros del carton: 31 34 40 52 54 70 71 82 
+-----------------------------
+Direccion: bv.armesti 4343
+Fecha: domingo
+Valor: 70
+Numeros del carton: 9 30 47 61 78 94 96 97 
+-----------------------------
+Direccion: calle falsa 123
+Fecha: domingo
+Valor: 70
+Numeros del carton: 3 16 22 34 44 51 79 98 
+-----------------------------
+Direccion: bv.armesti 4456
+Fecha: domingo
+Valor: 70
+Numeros del carton: 21 30 35 39 48 83 86 97 
+-----------------------------
+Direccion: bv.armesti 6544
+Fecha: domingo
+Valor: 70
+Numeros del carton: 10 14 17 56 69 75 81 92 
+-----------------------------
+Direccion: bv.armesti 6544
+Fecha: domingo
+Valor: 70
+Numeros del carton: 9 16 19 29 31 62 84 98 
+-----------------------------
+Direccion: bv.armesti 6544
+Fecha: domingo
+Valor: 70
+Numeros del carton: 2 11 30 33 40 75 78 83 
+-----------------------------
+Direccion: bv.armesti 6544
+Fecha: domingo
+Valor: 70
+Numeros del carton: 4 6 26 47 68 80 86 87 
+-----------------------------
+Direccion: bv.armesti 6544
+Fecha: domingo
+Valor: 70
+Numeros del carton: 13 14 34 35 37 41 66 96 
+-----------------------------
+Direccion: bv.armesti 6544
+Fecha: domingo
+Valor: 70
+Numeros del carton: 9 23 35 63 67 79 86 96 
+-----------------------------
+Direccion: bv.armesti 3223
+Fecha: domingo
+Valor: 70
+Numeros del carton: 11 13 21 23 32 53 67 89 
+-----------------------------
+Direccion: faslo
+Fecha: domingo
+Valor: 70
+Numeros del carton: 15 17 20 23 43 53 61 69 
+-----------------------------
+Direccion: faslo
+Fecha: domingo
+Valor: 70
+Numeros del carton: 50 57 64 66 75 85 91 98 
+-----------------------------
+Direccion: faslo
+Fecha: domingo
+Valor: 70
+Numeros del carton: 7 9 38 41 71 89 90 93 
+-----------------------------
+Direccion: faslo
+Fecha: domingo
+Valor: 70
+Numeros del carton: 1 3 5 6 11 25 55 96 
+-----------------------------
+Direccion: faslo
+Fecha: domingo
+Valor: 70
+Numeros del carton: 3 24 48 51 66 79 81 83 
+-----------------------------
+Direccion: Calle Falsa 123
+Fecha: domingo
+Valor: 70
+Numeros del carton: 7 18 20 55 66 69 81 86 
+-----------------------------
+Direccion: Av. Siempre Viva 123
+Fecha: domingo
+Valor: 0
+Numeros del carton: 8 13 21 61 85 93 98 99 
+-----------------------------
+Direccion: caaguazu 3211
+Fecha: domingo
+Valor: 70
+Numeros del carton: 13 17 45 71 74 84 85 97 
+-----------------------------
+Direccion: armesti 3223
+Fecha: domingo
+Valor: 70
+Numeros del carton: 19 26 33 48 60 70 75 80 
+-----------------------------
+Direccion: caaguazu 3232
+Fecha: domingo
+Valor: 70
+Numeros del carton: 15 26 30 34 48 51 62 77 
+-----------------------------
+Direccion: caaguazu 2322
+Fecha: domingo
+Valor: 70
+Numeros del carton: 36 55 61 65 69 70 78 82 
+-----------------------------
+Direccion: armesti 3322
+Fecha: domingo
+Valor: 70
+Numeros del carton: 22 27 35 38 52 68 79 92 
+-----------------------------
+Direccion: moctezuma 192
+Fecha: domingo
+Valor: 70
+Numeros del carton: 2 12 13 21 32 33 56 78 
+-----------------------------
+Direccion: cagua
+Fecha: domingo
+Valor: 70
+Numeros del carton: 1 2 23 24 25 31 33 56 
+-----------------------------
+Direccion: caagua
+Fecha: domingo
+Valor: 70
+Numeros del carton: 19 26 29 33 37 62 66 83 
+-----------------------------
+Direccion: jfjkfd
+Fecha: domingo
+Valor: 70
+Numeros del carton: 10 35 50 63 67 73 75 94 
+-----------------------------
+Direccion: caagua
+Fecha: domingo
+Valor: 70
+Numeros del carton: 3 4 22 23 32 43 78 87 
+-----------------------------
+Direccion: caguapark
+Fecha: domingo
+Valor: 70
+Numeros del carton: 2 3 22 23 33 34 39 44 
+-----------------------------
+Direccion: suerte
+Fecha: domingo
+Valor: 70
+Numeros del carton: 12 15 19 30 38 44 58 98 
+-----------------------------
+Direccion: av.eva peron 3422
+Fecha: domingo
+Valor: 70
+Numeros del carton: 12 16 17 36 57 68 69 99 
+-----------------------------
+Direccion: caaguazu 3223
+Fecha: domingo
+Valor: 70
+Numeros del carton: 12 25 26 38 56 57 61 65 
+-----------------------------
+Direccion: caaguazu 322
+Fecha: domingo
+Valor: 70
+Numeros del carton: 12 17 39 45 59 60 65 83 
+-----------------------------
+Direccion: cagua
+Fecha: domingo
+Valor: 70
+Numeros del carton: 8 11 31 45 57 59 66 67 
+-----------------------------
+Direccion: jkdsls 22
+Fecha: domingo
+Valor: 70
+Numeros del carton: 8 20 33 39 45 47 54 85 
+-----------------------------
+Direccion: loop 1122
+Fecha: domingo
+Valor: 70
+Numeros del carton: 6 22 35 44 59 77 87 93 
+-----------------------------
+Direccion: moctez 3332
+Fecha: domingo
+Valor: 70
+Numeros del carton: 33 39 41 47 50 52 54 90 
+-----------------------------
+Direccion: vivaldi 3323
+Fecha: domingo
+Valor: 70
+Numeros del carton: 1 6 39 46 61 80 83 93 
+-----------------------------
+Direccion: mocrds 123
+Fecha: domingo
+Valor: 70
+Numeros del carton: 11 12 22 27 28 40 53 91 
+-----------------------------
+Direccion: moctez 332
+Fecha: domingo
+Valor: 70
+Numeros del carton: 6 12 21 35 37 42 57 59 
+-----------------------------
+Direccion: av.alsina 32222
+Fecha: domingo
+Valor: 70
+Numeros del carton: 9 19 25 29 40 45 49 62 
+-----------------------------
+Direccion: maipu 2232
+Fecha: domingo
+Valor: 70
+Numeros del carton: 2 3 7 12 22 33 54 89 
+-----------------------------
+Direccion: moctezuma
+Fecha: domingo
+Valor: 70
+Numeros del carton: 30 42 43 45 56 79 88 93 
+-----------------------------
+Direccion: huaci
+Fecha: domingo
+Valor: 70
+Numeros del carton: 4 16 40 42 57 59 69 75 
+-----------------------------

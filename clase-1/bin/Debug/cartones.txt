@@ -1,0 +1,5 @@
+Direccion: av. maipu 234
+Fecha: domingo
+Valor: 70
+Numeros del carton: 5 9 46 63 74 78 85 88 
+-----------------------------

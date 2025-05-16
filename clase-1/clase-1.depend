@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1744335821 source:c:\users\yeyii\documents\unla 25\ayed\quiniela plus - clase 1\clase-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"menuOpc.h"
+
+1744331702 source:c:\users\yeyii\documents\unla 25\ayed\quiniela plus - clase 1\clase-1\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+
+1744332040 c:\users\yeyii\documents\unla 25\ayed\quiniela plus - clase 1\clase-1\jugador.h
+
+1744333482 source:c:\users\yeyii\documents\unla 25\ayed\quiniela plus - clase 1\clase-1\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"carton.h"
+	"jugador.h"
+
+1744333551 c:\users\yeyii\documents\unla 25\ayed\quiniela plus - clase 1\clase-1\carton.h
+	"funciones.h"
+	"jugada.h"
+
+1744331702 source:c:\users\yeyii\documents\unla 25\ayed\quiniela plus - clase 1\clase-1\jugada.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"jugada.h"
+
+1744334465 c:\users\yeyii\documents\unla 25\ayed\quiniela plus - clase 1\clase-1\jugada.h
+
+1744331702 c:\users\yeyii\documents\unla 25\ayed\quiniela plus - clase 1\clase-1\funciones.h
+
+1744334465 source:c:\users\yeyii\documents\unla 25\ayed\quiniela plus - clase 1\clase-1\funciones.c
+	<time.h>
+	<stdlib.h>
+	"funciones.h"
+
+1744335672 source:c:\users\yeyii\documents\unla 25\ayed\quiniela plus - clase 1\clase-1\menuopc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menuOpc.h"
+	"carton.h"
+	"jugador.h"
+	"jugada.h"
+
+1744335606 c:\users\yeyii\documents\unla 25\ayed\quiniela plus - clase 1\clase-1\menuopc.h
+
+1744333482 source:c:\users\yeyii\downloads\quiniela plus - lii mendez\clase-1\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"carton.h"
+	"jugador.h"
+
+1744333551 c:\users\yeyii\downloads\quiniela plus - lii mendez\clase-1\carton.h
+	"funciones.h"
+	"jugada.h"
+
+1744331702 c:\users\yeyii\downloads\quiniela plus - lii mendez\clase-1\funciones.h
+
+1744334465 c:\users\yeyii\downloads\quiniela plus - lii mendez\clase-1\jugada.h
+
+1744332040 c:\users\yeyii\downloads\quiniela plus - lii mendez\clase-1\jugador.h
+
+1744334465 source:c:\users\yeyii\downloads\quiniela plus - lii mendez\clase-1\funciones.c
+	<time.h>
+	<stdlib.h>
+	"funciones.h"
+
+1744331702 source:c:\users\yeyii\downloads\quiniela plus - lii mendez\clase-1\jugada.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"jugada.h"
+
+1744331702 source:c:\users\yeyii\downloads\quiniela plus - lii mendez\clase-1\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+
+1744335821 source:c:\users\yeyii\downloads\quiniela plus - lii mendez\clase-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"menuOpc.h"
+
+1744335606 c:\users\yeyii\downloads\quiniela plus - lii mendez\clase-1\menuopc.h
+
+1744335997 source:c:\users\yeyii\downloads\quiniela plus - lii mendez\clase-1\menuopc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menuOpc.h"
+	"carton.h"
+	"jugador.h"
+	"jugada.h"
+
+1744333482 source:c:\users\yeyii\downloads\cosas entregadas en ayed\quiniela plus - lii mendez\clase-1\carton.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"carton.h"
+	"jugador.h"
+
+1744333551 c:\users\yeyii\downloads\cosas entregadas en ayed\quiniela plus - lii mendez\clase-1\carton.h
+	"funciones.h"
+	"jugada.h"
+
+1744331702 c:\users\yeyii\downloads\cosas entregadas en ayed\quiniela plus - lii mendez\clase-1\funciones.h
+
+1744334465 c:\users\yeyii\downloads\cosas entregadas en ayed\quiniela plus - lii mendez\clase-1\jugada.h
+
+1744332040 c:\users\yeyii\downloads\cosas entregadas en ayed\quiniela plus - lii mendez\clase-1\jugador.h
+
+1744334465 source:c:\users\yeyii\downloads\cosas entregadas en ayed\quiniela plus - lii mendez\clase-1\funciones.c
+	<time.h>
+	<stdlib.h>
+	"funciones.h"
+
+1744331702 source:c:\users\yeyii\downloads\cosas entregadas en ayed\quiniela plus - lii mendez\clase-1\jugada.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"jugada.h"
+
+1744331702 source:c:\users\yeyii\downloads\cosas entregadas en ayed\quiniela plus - lii mendez\clase-1\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jugador.h"
+	"carton.h"
+
+1744335821 source:c:\users\yeyii\downloads\cosas entregadas en ayed\quiniela plus - lii mendez\clase-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"menuOpc.h"
+
+1744335606 c:\users\yeyii\downloads\cosas entregadas en ayed\quiniela plus - lii mendez\clase-1\menuopc.h
+
+1744335997 source:c:\users\yeyii\downloads\cosas entregadas en ayed\quiniela plus - lii mendez\clase-1\menuopc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menuOpc.h"
+	"carton.h"
+	"jugador.h"
+	"jugada.h"
+
